@@ -60,14 +60,6 @@ Exit code `0` = within `--tol` (default 3.0 %p); `1` = discrepancy.
 python eval/eval_nctcn.py
 ```
 
-## License
-
-Dual-licensed: academic (non-commercial) free; commercial requires a
-separate license. See [LICENSE](LICENSE) and [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).
-Commercial inquiries: `jinhochoi@smartear.co.kr`.
-
----
-
 ## Citation
 
 ```bibtex
@@ -91,3 +83,12 @@ Commercial inquiries: `jinhochoi@smartear.co.kr`.
 ---
 
 **Author**: Jin Ho Choi, Ph.D. — [DrJinHoChoi.github.io](https://drjinhochoi.github.io)
+
+## License
+
+**Dual License**: Academic (Non-Commercial) + Commercial.
+
+- **Academic / Non-commercial use**: free, see [LICENSE](LICENSE).
+- **Commercial use**: requires a separate license — see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) and contact `jinhochoi@smartear.co.kr`.
+
+> Patent notice: NanoMamba / NC-SSM / NC-TCN / NC-Conv-SSM family technologies may be subject to pending patent applications in KR and US. Commercial patent rights are granted only via a Commercial License.
